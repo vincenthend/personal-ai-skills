@@ -1,0 +1,11 @@
+# Gemini CLI package files
+*.skill
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local environment
+.env
+.venv/
+node_modules/
